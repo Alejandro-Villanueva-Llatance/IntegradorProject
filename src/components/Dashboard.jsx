@@ -2,10 +2,10 @@ import React, { useState } from 'react';
 
 const Dashboard = () => {
   const [patient] = useState({
-    name: 'Kevin Salazar',
-    fullName: 'María González',
-    age: 65,
-    gender: 'Femenino',
+    name: 'Kevin',
+    fullName: 'Kevin Salazar',
+    age: 20,
+    gender: 'Masculino',
     registrationDate: '14/12/2024'
   });
 
